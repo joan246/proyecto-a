@@ -37,7 +37,7 @@ Este es un _**Ejemplo de combinacion**_
 
 - [x] sacar la cita
 - [x] pagar los derechos
-- [x]asistir a la cita y tomarse la foto
+- [ ] asistir a la cita y tomarse la foto
 - [ ] esperar que salga el pasaporte
 
 # Ejemplo de citacion
