@@ -18,3 +18,8 @@ Este es un _**Ejemplo de combinacion**_
 * Azul
 * Verde
 * Azul
+
+#Ejemplo de una lista numerada:Futbolistas
+1. Messi
+2. Cristiano
+3. Lamine
