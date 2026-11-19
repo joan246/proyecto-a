@@ -2,7 +2,7 @@
 
 Esto es texto normal
 
-## Este es un encabezado de nivel
+## Este es un encabezado de nivel 2
 
 Esto es mas texto normal
 
