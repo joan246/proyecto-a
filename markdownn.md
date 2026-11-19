@@ -19,7 +19,12 @@ Este es un _**Ejemplo de combinacion**_
 * Verde
 * Azul
 
-#Ejemplo de una lista numerada:Futbolistas
+# Ejemplo de una lista numerada:Futbolistas
 1. Messi
 2. Cristiano
 3. Lamine
+
+# Ejemplo de una lista con varios niveles: Planetas y sus lunas
+*  Tierra
+    *Luna
+* Jupiter
