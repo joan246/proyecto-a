@@ -36,7 +36,7 @@ Este es un _**Ejemplo de combinacion**_
 # Ejemplo de una checklist: Obtener el pasaporte
 
 - [x] sacar la cita
-- [ ] pagar los derechos
+- [x] pagar los derechos
 - [x]asistir a la cita y tomarse la foto
 - [ ] esperar que salga el pasaporte
 
@@ -45,3 +45,16 @@ Mis estudianes dijieron:
 > que GTA VI habia salido
 > por que no
 > Si es un juego buenisimo!!!
+
+# Snippets del codigo
+
+
+Codigo en Python
+```python
+print("hola")
+print(" Este es un ejemplo de de codigo en python")
+```
+Codigo en Powershell
+```powershell
+Remove-Item -Recurse hola.txt
+```
