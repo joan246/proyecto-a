@@ -9,7 +9,12 @@ Esto es mas texto normal
 ### Este es un encabezado de nivel 3
 
 Todavia mas texto normal
-* Este es un ejemplo de *texto en cursiva*
+_Este es un ejemplo de *texto en cursiva_
 Este es un ejemplo de **Texto en negrilla**
 Este es otro ejemplo de _Texto en negrilla_
-Este es un *_Ejemplo de combinacion_*
+Este es un _**Ejemplo de combinacion**_
+# Ejemplo de lista con viñetas: Lista de colores
+* Amarillo
+* Azul
+* Verde
+* Azul
