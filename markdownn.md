@@ -26,5 +26,5 @@ Este es un _**Ejemplo de combinacion**_
 
 # Ejemplo de una lista con varios niveles: Planetas y sus lunas
 *  Tierra
-    *Luna
+    * Luna
 * Jupiter
