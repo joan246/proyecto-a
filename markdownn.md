@@ -35,7 +35,11 @@ Este es un _**Ejemplo de combinacion**_
 
 # Ejemplo de una checklist: Obtener el pasaporte
 
--[] sacar la cita
--[] pagar los derechos
--[] asistir a la cita y tomarse la foto
--[] esperar que salga el pasaporte
+- [x] sacar la cita
+- [] pagar los derechos
+- [] asistir a la cita y tomarse la foto
+- [] esperar que salga el pasaporte
+
+# Ejemplo de citacion
+Mis estudianes dijieron:
+> que GTA VI habia salido
